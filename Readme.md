@@ -23,6 +23,7 @@
 * Cobalt Strike后⻔上线后，设置time.sleep⼤于500秒
 * 手机短信验证码需使用在线平台如z-sms.com
 * socks代理通道需要使用SSL加密
+* 禁止在CS服务器上开启web服务，特别是在home目录
 
 
 
